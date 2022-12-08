@@ -28,4 +28,5 @@ public class Square extends Figure {
  * Has the priate variable base, same as traingle
  * 
  * 
+ * 
  */

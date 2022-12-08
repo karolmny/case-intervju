@@ -22,6 +22,7 @@ public class SystemException extends Exception {
 
 }
 
+
 /*
  * This class inherrits from the class Exception
  * 

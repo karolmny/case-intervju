@@ -18,6 +18,7 @@ public abstract class Figure implements Printable{
 }
 
 
+
 /*
  *  Figure is a abstract class that inherrits from the interface Printable 
  * 	- ref keyword implements
