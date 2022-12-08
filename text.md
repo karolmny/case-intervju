@@ -1,6 +1,9 @@
-Teknisk intervju:
+# Instruktioner Tekniskt Case – Rotation Track 
+
+## Teknisk intervju:
 
 1. Forstå hva som skjer når main-metoden i TestCase.java kjører: 
+
 
 2. Hvilke ulike resultater blir det av kjøringen avhengig av om 1, 2 eller 3 sendes inn i kallet av metoden sortList()
  
@@ -8,7 +11,8 @@ Teknisk intervju:
 
 4. Verifisere gjerne at den kode fungerer
 
-Krav/test intervju:
+## Krav/test intervju:
+
 Krav og test innebærer
 
 1. Hva tror du vi mener med det? 
